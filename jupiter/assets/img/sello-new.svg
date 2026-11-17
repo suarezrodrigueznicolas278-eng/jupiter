@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <polygon points="97.0,50.0 90.6,55.8 95.1,63.2 87.3,67.0 89.5,75.4 81.0,76.8 80.8,85.5 72.2,84.5 69.5,92.8 61.6,89.3 56.7,96.5 50.0,91.0 43.3,96.5 38.4,89.3 30.5,92.8 27.8,84.5 19.2,85.5 19.0,76.8 10.5,75.4 12.7,67.0 4.9,63.2 9.4,55.8 3.0,50.0 9.4,44.2 4.9,36.8 12.7,33.0 10.5,24.6 19.0,23.2 19.2,14.5 27.8,15.5 30.5,7.2 38.4,10.7 43.3,3.5 50.0,9.0 56.7,3.5 61.6,10.7 69.5,7.2 72.2,15.5 80.8,14.5 81.0,23.2 89.5,24.6 87.3,33.0 95.1,36.8 90.6,44.2" fill="#1b1b1b" stroke="#a9411f" stroke-width="2.5"/>
+  <text x="50" y="30" text-anchor="middle" font-family="Arial" font-size="5" fill="#a9411f" letter-spacing="1">DISPONIBLE</text>
+  <text x="50" y="58" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="26" fill="#a9411f">NEW</text>
+  <text x="50" y="72" text-anchor="middle" font-family="Arial" font-size="5" fill="#a9411f" letter-spacing="1">EDICIÓN LIMITADA</text>
+</svg>
